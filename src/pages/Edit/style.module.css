@@ -40,4 +40,10 @@
   cursor: pointer;
 }
 
+.error {
+  color: red;
+  text-align: center;
+  font-size: 10px;
+}
+
 /*# sourceMappingURL=style.module.css.map */

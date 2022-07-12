@@ -26,11 +26,6 @@
   text-align: center;
 }
 
-.submit {
-  background-color: #73D9C6 !important;
-  width: 30vw !important;
-}
-
 .buttons {
   width: 70vw;
   display: flex;
@@ -43,6 +38,12 @@
   border-radius: 30px;
   background-color: #73D9C6 !important;
   cursor: pointer;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  font-size: 10px;
 }
 
 /*# sourceMappingURL=style.module.css.map */
