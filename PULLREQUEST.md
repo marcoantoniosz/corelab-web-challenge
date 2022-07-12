@@ -18,6 +18,5 @@
 
 1. A aplicação consome dados da API do backend e renderiza os anúncios em tela, sendo possível editá-los, excluir ou favoritar.
 
-2. Para criar ou editar um anúncio é precisso que todos os campos estejam preenchidos, além do campo *PLACA* ser obrigatório 7 caracteres.
 
-3. É possivel pesquisar os anúncios através de palavras chave e filtros.
+2. É possivel pesquisar os anúncios através de palavras chave e filtros.
